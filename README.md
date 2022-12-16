@@ -1,5 +1,5 @@
 # Spotify Music Popularity Prediction
-This repo is used to predict the popularity of songs on the Spotify music streaming platform using machine learning. It consists of a Jupyter Notebook file that contains the data analysis, feature engineering, and machine learning algorithms used in the project. The dataset provided is obtained from Kaggle and consists of more than 12000 songs from various genres. It includes features such as artist name, track name, danceability, energy, instrumentalness, liveness, loudness, etc. The goal of this project is to build a model that can accurately predict the popularity of a song based on these attributes.
+This repo is used to predict the popularity of songs on the Spotify music streaming platform using machine learning. It consists of a Jupyter Notebook file that contains the data analysis, feature engineering, and machine learning algorithms used in the project. The dataset provided is obtained from Kaggle and consists of more than 200000 songs from various genres. It includes features such as artist name, track name, danceability, energy, instrumentalness, liveness, loudness, etc. The goal of this project is to build a model that can accurately predict the popularity of a song based on these attributes.
 
 The Jupyter Notebook file contains the following sections:
 
